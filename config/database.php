@@ -6,9 +6,9 @@
 
 // Database configuration
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'topmate_clone');
-define('DB_USER', 'root');
-define('DB_PASS', 'root');
+define('DB_NAME', 'u791328025_profile');
+define('DB_USER', 'u791328025_profile');
+define('DB_PASS', '/DfiT5~v');
 define('DB_CHARSET', 'utf8mb4');
 
 /**
